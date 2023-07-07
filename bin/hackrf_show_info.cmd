@@ -1,0 +1,2 @@
+hackrf_info
+pause
