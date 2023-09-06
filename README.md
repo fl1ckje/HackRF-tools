@@ -23,7 +23,7 @@ LabVIEW API has some built VI for following versions:
 * x86:
   - 2010
 
-If you don't see your LabVIEW version here, you can download any one which is ≥ than 2021 SP1 for x64 and ≥ than 2010 for x86 respectively.
+If you don't see your LabVIEW version here, you can download any one which is ≥ than 2021 SP1 for x64 and ≥ than 2010 for x86 respectively. Then just save VIs for your target version.
 
 If you encounter error while loading .NET assembly in LabVIEW, then try doing this:
 1. Close LabVIEW if it's running.
